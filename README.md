@@ -16,6 +16,7 @@
    (b). Leverage Apache Spark (Scala, RDD). <br>
 5. Modeling: <br>
    a). Implement various machine learning/deep learning models. <br>
-   b). Utilize MLlib and more...
+   b). Utilize MLlib and other relevant libraries.
+   c). Others.
    
 
